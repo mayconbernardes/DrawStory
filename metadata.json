@@ -1,0 +1,5 @@
+{
+  "name": "DrawStory",
+  "description": "A web application that lets users draw on a canvas and then uses AI to generate a creative story or description based on the drawing.",
+  "requestFramePermissions": []
+}
